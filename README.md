@@ -13,7 +13,7 @@
 | **AAPL Cross-Stock Test** | **85.4%** |
 | Cross-stock Drop | **0.6%** |
 | Features | **11 engineered** |
-| Model | **RandomForest (max_depth=5)** |
+| Model | **RandomForest (max_depth=20-40)** |
 
 ## 📁 Dataset
 [Kaggle Stock Market Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset/data)  
